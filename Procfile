@@ -1,0 +1,10 @@
+worker1: python3 escape.py
+worker2: python3 rewardsbot.py
+worker3: python3 niftysconnect.py
+worker4: python3 gitmBurnTicker.py
+worker5: python3 bluePillTicker.py
+worker6: python3 redPillTicker.py
+worker7: python3 niftysbot.py
+worker8: python3 salesbot.py
+worker9: python3 streakrewards.py
+worker10: python3 shopUpdate.py
